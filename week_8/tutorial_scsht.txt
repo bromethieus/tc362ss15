@@ -1,4 +1,4 @@
-Nobel Tutorial: 
+Nobel Tutorial: https://cloud.githubusercontent.com/assets/10599374/7460492/6a761966-f271-11e4-9c79-ea5bbbacd420.png
 
 MongoDB Tutorial: I had started the tutorial but got distracted mid-way through and when I tried using the link it
 took me to MongoDB's home page. I should kept up better.
